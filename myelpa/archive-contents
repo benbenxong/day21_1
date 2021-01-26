@@ -1,0 +1,9 @@
+(1
+ (company . [(0 9 13) ((emacs (24 3))) "Modular text completion framework" tar])
+ (counsel . [(20200922 1006) ((emacs (24 5)) (swiper (0 13 0))) "Various completion functions using Ivy" tar])
+ (hungry-delete . [(20200807 2257) nil "hungry delete minor mode" tar])
+ (ivy . [(20200826 955) ((emacs (24 5))) "Incremental Vertical completYon" tar])
+ (monokai-theme . [(20180730 1329) nil "A fruity color theme for Emacs." tar])
+ (smex . [(20151212 2209) ((emacs (24))) "Mstyle fuzzy matching." tar])
+ (swiper . [(20200503 1102) ((emacs (24 5)) (ivy (0 13 0))) "Isearch with an overview. Oh, man!" tar])
+)
